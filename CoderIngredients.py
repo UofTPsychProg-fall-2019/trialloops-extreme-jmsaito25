@@ -172,7 +172,7 @@ there are several timing options
 # waits for time specified in seconds
 core.wait(1)
 # if you wait for long enough psychopy will let your computer do other things
-# not super percise but okay if you don't need stimuli presented at exact times
+# not super precise but okay if you don't need stimuli presented at exact times
 
 # clocks are super handy -- they basically start stopwatches to tell you how
 # long it's been since a particular event
